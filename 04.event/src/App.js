@@ -1,7 +1,7 @@
-import EventPractice from "./EventPractice";
+import InterationSample from "./InterationSample";
 
 function App() {
-  return <EventPractice />;
+  return <InterationSample />;
 }
 
 export default App;

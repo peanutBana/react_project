@@ -20,7 +20,7 @@ const EventPractice = () => {
     setMessage("");
   };
   const onKeyPress = (e) => {
-    if (e.kry === "Enter") {
+    if (e.key === "Enter") {
       onClick();
     }
   };
