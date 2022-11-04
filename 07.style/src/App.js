@@ -1,8 +1,8 @@
-import SassComponent from './SassComponent';
+import StytledComponent from './StytledComponent';
 
 function App() {
   return (
-    <SassComponent/>
+    <StytledComponent />
   );
 }
 
